@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CategoryPills from "./components/CategoryPills";
+import { CategoryPills } from "./components/CategoryPills";
 import PageHeader from "./components/PageHeader";
 import { categories } from "./data/categories";
 
